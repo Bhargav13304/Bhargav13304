@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying
+I'M CURRENTLY STUDYING
 
 
 # 💻 Tech Stack:
