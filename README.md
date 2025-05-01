@@ -1,90 +1,62 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Holo-Cube Tech Showcase</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<h1 align="center">🤖 Welcome to My Neural Network</h1>
+<p align="center">Crafted by Bhargav S M | Building the Future, One Node at a Time.</p>
 
-        body {
-            margin: 0;
-            padding: 0;
-            background-color: #121212;
-            height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            overflow: hidden;
-        }
+---
 
-        #cube-container {
-            perspective: 1000px;
-            width: 400px;
-            height: 400px;
-            position: relative;
-        }
+### 🧠 Neural Layers of My Brain:
+> **Input Layer** → HTML, CSS, JS  
+> **Hidden Layer 1** → PHP, React, Node.js  
+> **Hidden Layer 2** → MySQL, Firebase, AWS  
+> **Output Layer** → Full-Stack Web Solutions  
 
-        #holo-cube {
-            width: 100%;
-            height: 100%;
-            position: absolute;
-            transform-style: preserve-3d;
-            transform: rotateY(0deg);
-            animation: rotateCube 10s infinite linear;
-        }
+---
 
-        .cube-face {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(0, 0, 0, 0.9);
-            border: 2px solid #33FFCC; /* Neon Green */
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-family: 'Arial', sans-serif;
-            font-size: 2rem;
-            color: #33FFCC;
-            text-align: center;
-            transition: transform 0.5s, background-color 0.3s;
-        }
+### 🏙️ Tech Stack City (Vertical Skyline View)
+```
+       🖥️
+      🏢🏢
+     🏢🛠️🏢       ← Core Layer (HTML, CSS, JS, PHP)
+    🏢🔧🏢🔌       ← Framework Layer (React, Node.js, Express)
+   🏢🗄️🏢🧠🏢     ← Data Layer (MySQL, Firebase, AWS, MongoDB)
+  🏢🌐🏢📡🏢📦   ← Deployment Layer (Git, GitHub, Vercel, Heroku)
+```
 
-        .cube-face:hover {
-            transform: scale(1.1);
-            background-color: rgba(0, 0, 0, 0.7);
-        }
+---
 
-        #front  { transform: translateZ(200px); }
-        #back   { transform: rotateY(180deg) translateZ(200px); }
-        #left   { transform: rotateY(-90deg) translateZ(200px); }
-        #right  { transform: rotateY(90deg) translateZ(200px); }
-        #top    { transform: rotateX(90deg) translateZ(200px); }
-        #bottom { transform: rotateX(-90deg) translateZ(200px); }
+### 🧰 Tech Toolbox:
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-        @keyframes rotateCube {
-            0% { transform: rotateY(0deg); }
-            100% { transform: rotateY(360deg); }
-        }
+---
 
-    </style>
-</head>
-<body>
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhargav13304&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargav13304&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-    <div id="cube-container">
-        <div id="holo-cube">
-            <div id="front" class="cube-face">HTML, CSS, JS</div>
-            <div id="back" class="cube-face">Node.js, Express</div>
-            <div id="left" class="cube-face">React, Redux</div>
-            <div id="right" class="cube-face">Python, Flask</div>
-            <div id="top" class="cube-face">Git, GitHub</div>
-            <div id="bottom" class="cube-face">SQL, MongoDB</div>
-        </div>
-    </div>
+---
 
-</body>
-</html>
+### 🏆 Trophies & Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhargav13304&theme=dracula" alt="Trophies" />
+</p>
+
+---
+
+### 💡 Code Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+</p>
+
+---
+
+<p align="center"><i>“I am Iron Man, but on the Web.”</i></p>
