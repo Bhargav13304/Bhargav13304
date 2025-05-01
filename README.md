@@ -1,64 +1,83 @@
-<h1 align="center">Hi 👋, I'm Bhargav S M</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Holo-Cube Tech Showcase</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #121212;
+            height: 100vh;
+            overflow: hidden;
+        }
 
-I'M CURRENTLY STUDYING
+        #cube-container {
+            perspective: 1000px;
+            width: 400px;
+            height: 400px;
+            position: relative;
+        }
 
----
+        #holo-cube {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            transform-style: preserve-3d;
+            animation: rotateCube 10s infinite linear;
+        }
 
-### 🧬 DNA Ring  
-[![DNA Ring](https://github.com/Bhargav13304/Bhargav13304/assets/dna-ring-preview.gif)](https://bhargav13304.github.io/dna-ring/)  
-⬆️ Click to see it in action.
+        .cube-face {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.9);
+            border: 2px solid #33FFCC; /* Neon Green */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Arial', sans-serif;
+            font-size: 2rem;
+            color: #33FFCC;
+            text-align: center;
+            transition: transform 0.5s, background-color 0.3s;
+        }
 
----
+        .cube-face:hover {
+            transform: scale(1.1);
+            background-color: rgba(0, 0, 0, 0.7);
+        }
 
-### 🧠 Neural Skill Network  
-[![Neural Skill Network](https://github.com/Bhargav13304/Bhargav13304/assets/skill-network-preview.gif)](https://bhargav13304.github.io/skill-network/)  
-⬆️ Click to interact with it.
+        #front  { transform: translateZ(200px); }
+        #back   { transform: rotateY(180deg) translateZ(200px); }
+        #left   { transform: rotateY(-90deg) translateZ(200px); }
+        #right  { transform: rotateY(90deg) translateZ(200px); }
+        #top    { transform: rotateX(90deg) translateZ(200px); }
+        #bottom { transform: rotateX(-90deg) translateZ(200px); }
 
----
+        @keyframes rotateCube {
+            0% { transform: rotateY(0); }
+            100% { transform: rotateY(360deg); }
+        }
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+    </style>
+</head>
+<body>
 
----
+    <div id="cube-container">
+        <div id="holo-cube">
+            <div id="front" class="cube-face">HTML, CSS, JS</div>
+            <div id="back" class="cube-face">Node.js, Express</div>
+            <div id="left" class="cube-face">React, Redux</div>
+            <div id="right" class="cube-face">Python, Flask</div>
+            <div id="top" class="cube-face">Git, GitHub</div>
+            <div id="bottom" class="cube-face">SQL, MongoDB</div>
+        </div>
+    </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bhargav13304&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bhargav13304&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargav13304&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bhargav13304&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</body>
+</html>
