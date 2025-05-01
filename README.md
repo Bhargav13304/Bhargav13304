@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhargav S M</h1>
 
 
-I'M CURRENTLY STUDYING
+
 
 
 # 💻 Tech Stack:
