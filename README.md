@@ -1,11 +1,4 @@
-<h1 align="center">🦇 Bhargav S M</h1>
-
-<p align="center"><i>“Silent in the crowd. Sharp in the code.”</i></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Code%20In%20Progress-black?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Mood-Dark%20Mode-181818?style=for-the-badge&logo=darkreader&logoColor=white">
-</p>
+<h1 align="center">🕶️ Bhargav S M</h1>
 
 ---
 
@@ -19,7 +12,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
   <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
@@ -48,30 +40,20 @@
 
 ---
 
-## 📈 Stats & Insights
+## 🧩 Projects: Systems in Shadows
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhargav13304&theme=dark&hide_border=false&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Bhargav13304&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargav13304&theme=dark&hide_border=false&layout=compact" />
-</p>
+- **Student Info Subsystem** – A seamless university dashboard module with role-based access control.
+- **Move It** – Item logistics across India with real-time tracking.
+- **TinDog** – Social platform for dogs and dog lovers.
+- **Music Tutorial Fetcher** – Smart search interface powered by music APIs.
 
----
-
-## 🏆 Trophies of the Night
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhargav13304&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+> *You won’t see them... until you need them.*
 
 ---
 
-## 🧠 Code Whisper
+## 🔒 Current Mission
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-</p>
-
----
+```text
+> Integrating secure access layers in academic systems.
+> Minimizing user friction. Maximizing data integrity.
+> Future goal: Autonomous dashboards with role-detection AI.
