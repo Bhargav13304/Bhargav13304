@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bhargav S M</h1>
+<h1 align="center">
+  Hi 👋, I'm Bhargav S M 
+  <img src="https://media.giphy.com/media/3oKIPnLR6tC7zPJeB6/giphy.gif" alt="Waving Hand" width="30">
+</h1>
+
 
 I'M CURRENTLY STUDYING
 
