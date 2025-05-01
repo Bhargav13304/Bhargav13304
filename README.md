@@ -5,14 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Holo-Cube Tech Showcase</title>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
         body {
             margin: 0;
             padding: 0;
+            background-color: #121212;
+            height: 100vh;
             display: flex;
             justify-content: center;
             align-items: center;
-            background-color: #121212;
-            height: 100vh;
             overflow: hidden;
         }
 
@@ -28,6 +34,7 @@
             height: 100%;
             position: absolute;
             transform-style: preserve-3d;
+            transform: rotateY(0deg);
             animation: rotateCube 10s infinite linear;
         }
 
@@ -60,7 +67,7 @@
         #bottom { transform: rotateX(-90deg) translateZ(200px); }
 
         @keyframes rotateCube {
-            0% { transform: rotateY(0); }
+            0% { transform: rotateY(0deg); }
             100% { transform: rotateY(360deg); }
         }
 
