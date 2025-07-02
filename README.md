@@ -59,4 +59,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Bhargav13304&label=Profile+views&color=0e75b6&style=flat" alt="Bhargav13304 profile views" /> 
+</p>
+
+
+
