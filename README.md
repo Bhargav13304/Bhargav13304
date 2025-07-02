@@ -59,6 +59,13 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+## 📈 My GitHub Activity
+
+[![Bhargav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhargav13304&theme=github-dark)](https://github.com/ashish-soni/github-readme-activity-graph)
+
+---
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Bhargav13304&label=Profile+views&color=0e75b6&style=flat" alt="Bhargav13304 profile views" /> 
 </p>
