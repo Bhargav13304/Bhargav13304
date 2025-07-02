@@ -45,16 +45,33 @@
 ![Canister](https://img.shields.io/badge/Canister-%2300457C.svg?style=for-the-badge&logo=internetcomputer&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-
-
-
+---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bhargav13304&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bhargav13304&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargav13304&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhargav13304&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&border_color=0e75b6" alt="Bhargav's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargav13304&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&stroke=0e75b6&background=151515" alt="Bhargav's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargav13304&layout=compact&theme=dark&hide_border=false&langs_count=12&exclude_repo=YOUR_REPO_TO_EXCLUDE_1,YOUR_REPO_TO_EXCLUDE_2&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&border_color=0e75b6" alt="Bhargav's Top Languages" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bhargav13304&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhargav13304&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Bhargav's GitHub Trophies" />
+</p>
+
+---
+
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
