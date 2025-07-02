@@ -42,7 +42,6 @@
 ![Blockchain](https://img.shields.io/badge/Blockchain-%232B58E2.svg?style=for-the-badge&logo=blockchain-dot-com&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![Internet Computer](https://img.shields.io/badge/Internet%20Computer-%2300457C.svg?style=for-the-badge&logo=internetcomputer&logoColor=white)
-![Canister](https://img.shields.io/badge/Canister-%2300457C.svg?style=for-the-badge&logo=internetcomputer&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
