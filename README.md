@@ -59,14 +59,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-## 🌍 Where My Visitors Are From
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargav13304&layout=compact&hide_title=true&hide_border=true&card_width=320&theme=dark&langs_count=10&exclude_repo=YOUR_REPO_TO_EXCLUDE" alt="Top Languages" />
-  </p>
-
----
 
 
 
